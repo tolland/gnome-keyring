@@ -191,3 +191,4 @@ depcomp
 
 /docs/reference/*/*-scan
 /docs/reference/*/*-scan.c
+/pkcs11/secret-store/fixtures/login.keyring

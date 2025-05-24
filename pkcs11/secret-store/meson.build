@@ -92,6 +92,10 @@ libgkm_secret_store_tests = [
     'name': 'secret-binary',
     'needs-mock': true,
   },
+  {
+    'name': 'login-keyring-passwords',
+    'needs-mock': true,
+  },
 ]
 
 libgkm_secret_store_tests_deps = [
